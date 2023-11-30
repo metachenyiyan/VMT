@@ -4,7 +4,7 @@
 
 **Variational Markov Transformer**
 
-(theory part complete, experiment in progress, paper not finished yet)
+(experiment in progress, paper not finished yet)
 
 Authors: Yiyan CHEN
 
